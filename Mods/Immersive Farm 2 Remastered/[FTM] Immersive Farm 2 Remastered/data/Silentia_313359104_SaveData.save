@@ -1,0 +1,65 @@
+{
+  "WeatherForYesterday": null,
+  "LNOSCounter": {
+    "Farm Meteorite Block": 1,
+    "Farm Meteorites x2 - If no giant crop is present on preexisting save on day 1": 1
+  },
+  "ExistingObjectLocations": {},
+  "SavedObjects": [
+    {
+      "MapName": "Farm",
+      "Name": null,
+      "Tile": "77, 117",
+      "Type": "ResourceClump",
+      "ID": "622",
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_DeepCave",
+      "Name": "544",
+      "Tile": "15, 29",
+      "Type": "Forage",
+      "ID": "544",
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_DeepCave",
+      "Name": "567",
+      "Tile": "43, 28",
+      "Type": "Forage",
+      "ID": "567",
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_DeepCave",
+      "Name": "535",
+      "Tile": "15, 26",
+      "Type": "Forage",
+      "ID": "535",
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_DeepCave",
+      "Name": "535",
+      "Tile": "29, 16",
+      "Type": "Forage",
+      "ID": "535",
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    }
+  ]
+}
